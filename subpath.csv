@@ -1,0 +1,4 @@
+TestPlan,Name,UseCases,,,
+,regresion,%UseCase,,,
+[]UseCase{1..0002},Subpath,Description,Request,Expect,uri
+,use_cases/${index}_*,#use_case,#http_request|#payload,#http_expect,#uri

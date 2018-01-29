@@ -1,0 +1,4 @@
+Root,Repeated,
+,%Repeated,
+[]Repeated{3 .. 0007},Id,Name
+,!AsInt(${index}),Name ${index}

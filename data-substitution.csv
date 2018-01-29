@@ -1,0 +1,5 @@
+Task,Name,Actions,,,,,
+,start xx service,%Start,,,,,
+[]Start,Service,Action,Request,RunCriteria,method,params.Instance,params.Project
+,xx,status,#req/xx_call | $params,,get,abc,p1
+,yy,start,#req/xx_call | $params,status != 'running',start,xyz,p2

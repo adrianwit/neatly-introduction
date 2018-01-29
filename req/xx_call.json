@@ -1,0 +1,7 @@
+{
+   "Method":"$method",
+   "Params":{
+      $args0
+   },   		
+   "Credentials":"$xxCredentials"	
+}

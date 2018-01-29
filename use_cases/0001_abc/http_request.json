@@ -1,0 +1,14 @@
+{
+  "Requests": [
+    {
+      "Method": "POST",
+      "URL": "http://${endpoint}/$uri1",
+      "Body": "$payload1"
+    },
+    {
+      "Method": "POST",
+      "URL": "http://${endpoint}/$uri2",
+      "Body": "$payload2"
+    }
+  ]
+}

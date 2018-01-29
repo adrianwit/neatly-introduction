@@ -1,0 +1,47 @@
+{
+  "Date": "2018-01-01",
+  "Auctions": [
+    {
+      "Product": "P1",
+      "Vendor":"V1",
+      "Bids":[
+        {
+          "OfferPrice":2.32,
+          "Bidder":"b1"
+
+        },
+        {
+          "OfferPrice":2.35,
+          "Bidder":"b2"
+
+        },
+        {
+          "OfferPrice":2.31,
+          "Bidder":"b3"
+
+        }
+      ]
+    },
+
+    {
+      "Product": "P2",
+      "Vendor":"V2",
+      "Bids":[
+        {
+          "OfferPrice":3.11,
+          "Bidder":"b4"
+
+        },
+        {
+          "OfferPrice":2.99,
+          "Bidder":"b1"
+
+        },
+        {
+          "OfferPrice":3.04,
+          "Bidder":"b2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+DbTester,Config.Driver,Config.DataSourceName,UseCases,,,
+,mysql,[[user]:[password]]@[url]],%UseCases,,,
+[]UseCases,Id,Description,ExpectedRecord.[]Table1,/TableSetup.[]Table1,record.id,record.name
+-,1,Use case 1,$record,$record,10,Name 1
+-,2,Use case 2,$record,$record,20,Name 2
+-,3,Use case 3,$record,$record,30,Name 3

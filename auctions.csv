@@ -1,0 +1,11 @@
+ActionJournal,Date,Auctions,
+,1/1/18,%Blah,
+[]Blah,Product,Vendor,Bids
+,keyboard,apple,%Bids1
+,mouse,apple,%Bids2
+[]Bids2,OfferPrice,Bidder,
+,32,b0,
+,11,vb5,
+[]Bids1,OfferPrice,Bidder,
+,23,b1,
+,32,b3,

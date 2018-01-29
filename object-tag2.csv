@@ -1,0 +1,4 @@
+Root,Id,Field1,Field2.k10,Field3,[]Field4,Field5.[]Repeated.Id,Field5.[]Repeated.Name
+,1,#field1,v10,#field3,1,1,Name 1
+,,,,,2,2,Name 2
+,,,,,3,,
