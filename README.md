@@ -101,6 +101,7 @@ Root reference helps to manage data cohesion.
 ![](object-tag2.png)
 
 
+In the latest version '@' is preferred over '#' to denote external resource.
 
 ```text
 neatly -i object-tag2
